@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Seshadri Reddy BHAVANASI (@seshadricloud)
+# 👋 Hi, I’m Seshadri Reddy Bhavanasi (@seshadricloud)
 
 🚀 **Cloud & DevOps Engineer** | Passionate about automation, scalability, and efficient deployments  
 
