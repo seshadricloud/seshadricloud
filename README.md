@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Seshadri Reddy (@seshadricloud)
 
-🚀 **Cloud & DevOps Engineer** | Passionate about automation, scalability, and efficient deployments
+🚀 **Cloud & DevOps Engineer** | Obsessed with automation, efficiency, and building scalable solutions.
 
 ---
 
 ## 💡 About Me
 
-- 👀 **Interests:** Cloud Computing, DevOps, Automation, and Open-Source
-- 💼 **Currently Working On:** AWS, Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code
-- 💞️ **Looking to Collaborate On:** Open-source DevOps projects, cloud automation tools, and innovative infrastructure solutions
-- 📫 **Reach Me At:**  
+- 👀 **Interests:** Cloud Computing, DevOps, Automation, Open-Source, and Tech Blogging  
+- 💼 **Currently Working On:** Designing cloud architectures, optimizing CI/CD pipelines, Infrastructure as Code, and container orchestration  
+- 💞️ **Open to Collaborate On:** Open-source DevOps projects, automation frameworks, and cloud-native tools  
+- 🌱 **Learning:** Advanced Kubernetes, GitOps, and serverless architectures  
+- 📫 **Let’s Connect:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seshadricloud)  
   [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:seshadricloud@example.com)
 
@@ -26,9 +27,11 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=orange)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-💡 *Building scalable cloud solutions and streamlining deployments with modern DevOps tools. Always exploring, learning, and sharing knowledge!*
+💡 *I thrive on building reliable cloud infrastructure and streamlining deployments with modern DevOps practices. Always eager to learn, share, and innovate in the cloud-native ecosystem!*
 
 ---
