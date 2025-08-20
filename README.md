@@ -11,8 +11,8 @@
 - 💞️ **Open to Collaborate On:** Open-source DevOps projects, automation frameworks, and cloud-native tools  
 - 🌱 **Learning:** Advanced Kubernetes, GitOps, and serverless architectures  
 - 📫 **Let’s Connect:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seshadricloud)  
-  [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:seshadricloud@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bhavansi)  
+  [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:seshadri.cloud@gmail.com)
 
 ---
 
